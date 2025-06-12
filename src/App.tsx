@@ -1,5 +1,4 @@
 import Battery from "@/components/battery";
-import BatteryChargingUI from "./components/batteryChargingUi";
 
 export default function App() {
   return (
